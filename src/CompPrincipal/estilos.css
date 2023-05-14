@@ -1,0 +1,49 @@
+.nosotros{
+    text-align: center justify;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    display: flex;
+}
+.pasteli{
+    padding-left: 10%;
+    width: 500px;
+    height: 500px;
+}
+.Footer{
+    display: flex;
+    background-color: rgba(180, 129, 17, 0.932);
+    text-align: center;
+}
+.logo1{
+    width: 120px;
+    height: 95px;   
+}
+.logo2{
+    width: 80px;
+    height: 65px; 
+}
+.logo3{
+    width: 130px;
+    height: 65px;   
+}
+.logo4{
+    width: 90px;
+    height: 75px; 
+}
+.row{
+    padding-left: 50%;
+}
+.centrar{
+    padding-left: 50%;
+}
+.vision{
+    padding-right: 10%;
+    width: 250px;
+    height: 250px;
+}
+.mision{
+    padding-left: 10%;
+    width: 300px;
+    height: 300px;
+}

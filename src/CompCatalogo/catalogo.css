@@ -1,0 +1,48 @@
+.titulo{
+    font-family: 'Helvetica';
+    text-align: center;
+}
+.text{
+    font-family: 'Perpetua';
+    font-size: 22px;
+}
+.cont{
+    text-align: center, justify;
+    padding-top: 3%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background: linear-gradient(to bottom right, #FFE77AFF, #FFFFB8FF);
+}
+.fondoT{
+    background-color: rgba(255, 255, 255, 0.712);
+    padding: 7%;
+    border-radius: 5%;
+}
+.conte2{
+    padding: 5%;
+}
+.prob{
+    display: flex;
+    padding-top: 5%;
+}
+.bo1{
+    padding-top: 22%;
+}
+.bo2{
+    padding-top: 40%;
+}
+.fo{
+    background: linear-gradient(to bottom right, #FFE77AFF, #FFFFB8FF);
+}
+.ca{
+    padding-top: 3%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.ca1{
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}

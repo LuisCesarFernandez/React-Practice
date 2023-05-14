@@ -1,0 +1,11 @@
+.map{
+    width: 600px;
+    height: 400px;
+}
+.cont{
+    background: linear-gradient(to bottom right, #FFE77AFF, #FFFFB8FF);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
